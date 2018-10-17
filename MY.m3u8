@@ -121,7 +121,7 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13522.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/foxhd.jpg", group-title="MOVIE",FOX HD
 http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8
 
-#EXTINF-1, tvg-logo="https://images.mypadtv.com/fxhd.jpg", group-title="MOVIE",FX HD
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/fxhd.jpg", group-title="MOVIE",FX HD
 http://cdn2.bear-tv.com/freetv/TOT_FX_HD/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",SONY ONE
