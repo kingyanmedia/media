@@ -40,17 +40,14 @@ http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qqja6/live-2.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_arena.jpg", group-title="MY",ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
-
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_awani.jpg", group-title="MY",ASTRO AWANI
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13533.m3u8
 
 #EXTINF:-1, tvg-logo="https://aotg-images.aotg-video.astro.com.my/images/Naura.jpg", group-title="MY",ASTRO NAURA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13556.m3u8
 
-
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ceria.jpg", group-title="MY",ASTRO CERIA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13544.m3u8
-
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_citra.jpg", group-title="MY",ASTRO CITRA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13548.m3u8
@@ -61,18 +58,14 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13571.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_maya_hd.jpg", group-title="MY",ASTRO MAYA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13542.m3u8
 
-
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_oasis.jpg", group-title="MY",ASTRO OASIS
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13555.m3u8
-
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_prima.jpg", group-title="MY",ASTRO PRIMA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13543.m3u8
 
-
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ria_hd.jpg", group-title="MY",ASTRO RIA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13546.m3u8
-
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tara_hd.jpg", group-title="MY",ASTRO TARA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13510.m3u8
@@ -83,7 +76,6 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13524.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_warna_hd.jpg", group-title="MY",ASTRO WARNA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13545.m3u8
 
-
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/okey.jpg", group-title="MY",TV OKEY
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 
@@ -93,18 +85,14 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13567.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tvalhijrah.jpg", group-title="MY",TV AL-HIJRAH
 http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Alhijrah/playlist.m3u8
 
-
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/bernama.jpg", group-title="MY",BERNAMA
 http://livecdn.long.tv:8123/live/D2277643DD09404D9A16098841FAD3D1/playlist.m3u8?sid=2e10c441a6d447789c914561b5a05336
-
 
 #EXTINF:-1, tvg-logo="https://www.unifi-tm.com.my/wp-content/uploads/2015/03/1-news-channel.png", group-title="MY",1 NEWS
 http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
 
-
 #EXTINF:-1, tvg-logo="https://rtm-image.glueapi.io/300x180/live_stream/6-RTMParlimen.jpg", group-title="MY",RTM PARLIMEN
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
-
 
 #EXTINF:-1, tvg-logo="http://www.tvikim.my/images/logo-header.png", group-title="MY",TV IKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
@@ -163,7 +151,6 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13532.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tvn_hd.jpg", group-title="KOREAN",tvN
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13549.m3u8
 
-
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd5.jpg", group-title="SINGAPORE",CHANNEL 5
 http://103.89.176.45:8278/Channel5/playlist.m3u8
 
@@ -184,9 +171,6 @@ https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/vasantham.jpg", group-title="SINGAPORE",VASANTHAM FH
 https://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
-
-
-
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/natgeo.jpg", group-title="DOCUMENTARY",NATIONAL GEOGRAPHIC
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13558.m3u8
