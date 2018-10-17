@@ -11,7 +11,7 @@ http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-2.m3u8
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13520.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_aec.jpg", group-title="MY",test
-http://50.7.176.130:20088/live/v02e93md/onasdcun/index.m3u8
+https://50.7.176.130:20088/live/v02e93md/onasdcun/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ondemand.jpg", group-title="MY",AOD
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13553.m3u8
