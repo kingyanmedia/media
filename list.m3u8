@@ -13,6 +13,9 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13520.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ondemand.jpg", group-title="MY",AOD
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13553.m3u8
 
+#EXTINF:-1, tvg-logo="", group-title="MY",TVB
+http://pullhls6.inke.cn/live/1539771027820545/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/xingkong.jpg", group-title="MY", STAR TV
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
 
