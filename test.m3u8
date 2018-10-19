@@ -1,0 +1,116 @@
+#EXTINF:-1,group-title="Hindi",9X Music
+http://ind28-lh.akamaihd.net/i/ind28_9xm@424619/index_1100.m3u8
+
+#EXTINF:-1,group-title="Hindi",Aaj Tak
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
+#EXTINF:-1,group-title="Hindi",ABP News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+
+#EXTINF:-1,group-title="Hindi",Bharat Today TV
+http://live.wmncdn.net/bharat2015today1/livetoday.stream/index.m3u8
+
+#EXTINF:-1,group-title="Hindi",DD Lok Sabha
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+
+#EXTINF:-1,group-title="Hindi",DD Rajya Sabha
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+
+#EXTINF:-1,group-title="Hindi",Desi Beats HD
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+
+#EXTINF:-1,group-title="Hindi",ETV Raj
+https://etv-rajasthan.akamaized.net/i/etv_rajasthan_hls_1@175738/index_3_av-p.m3u8
+
+#EXTINF:-1,group-title="Hindi",India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+
+#EXTINF:-1,group-title="Hindi",Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+
+#EXTINF:-1,group-title="Hindi",Living India News
+http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,group-title="Hindi",NDTV India
+https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
+
+#EXTINF:-1,group-title="Hindi",News 18 India
+http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
+
+#EXTINF:-1,group-title="Hindi",Sadhana Plus News
+http://live.wmncdn.net/sadhanaplus1/live.stream/index.m3u8
+
+#EXTINF:-1,group-title="HK Macau",澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+
+#EXTINF:-1,group-title="HK Macau",莲花卫视
+http://3xhtut.hls1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c.m3u8
+
+#EXTINF:-1,group-title="Indonesia", ADI TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1,group-title="Indonesia", ASWAJA TV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+
+#EXTINF:-1,group-title="Indonesia", INSPIRA TV
+http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
+
+#EXTINF:-1,group-title="Indonesia", NUCHANNEL
+http://stream1.ninmedia.tv/live/nin-nuchannel.stream_nin/chunklist_w1716352925.m3u8
+
+#EXTINF:-1,group-title="Indonesia", TABALOG TV
+http://stream1.ninmedia.tv/live/nin-tabalong.stream_nin/chunklist_w1360014054.m3u8
+
+#EXTINF:-1,group-title="Indonesia",ANTV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215034900095272/index.m3u8?_res_tag_=video
+
+#EXTINF:-1,group-title="Indonesia",BERITA SATU NEWS
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#EXTINF:-1,group-title="Indonesia",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1,group-title="Indonesia",MNCTV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/index.m3u8
+
+#EXTINF:-1,group-title="Indonesia",NET.HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+
+#EXTINF:-1,group-title="Indonesia",TVRI3
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+
+#EXTINF:-1,group-title="SPORTS", ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
+#EXTINF:-1,group-title="SPORTS", Astro Supersports 1
+http://playbackn15.aotg-video.astro.com.my/CH1/master_AG4_8.m3u8
+
+#EXTINF:-1,group-title="SPORTS", Astro Supersports 2
+http://playbackn15.aotg-video.astro.com.my/CH2/master_AG5_8.m3u8
+
+#EXTINF:-1,group-title="SPORTS", Astro Supersports 3
+http://playbackn15.aotg-video.astro.com.my/CH3/master_AG6_8.m3u8
+
+#EXTINF:-1,group-title="Tamil",Megnavision TV
+http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
+
+#EXTINF:-1,group-title="Tamil",Vendharm TV
+http://45.79.203.234:1935/vendharm/myStream/chunklist_w2001796311.m3u8
+
+#EXTINF:-1,group-title="THAI",Skynet Skynet Sport1
+http://191.96.38.213:443/free41/00_skynetsport1_480p/playlist.m3u8
+
+#EXTINF:-1,group-title="THAI",Skynet Skynet Sport2
+http://191.96.38.213:443/free41/00_skynetsport2_480p/playlist.m3u8
+
+#EXTINF:-1,group-title="THAI",TrueSport HD1
+http://191.96.38.213:443/free54/0x777_2sporthd1_720p/playlist.m3u8
+
+#EXTINF:-1,group-title="World News", Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1,group-title="World News",Berita Satu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+
+#EXTINF:-1,group-title="World News",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
