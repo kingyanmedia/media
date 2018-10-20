@@ -214,6 +214,21 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13566.m3u8
 #EXTINF:-1, tvg-logo="", group-title="HINDI",HINDI STAR
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13570.m3u8
 
+#EXTINF:-1,tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg", group-title="HINDI",&PICTURES HD
+https://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.imgur.com/RcQaQOn.png", group-title="HINDI",ZEE CINEMA
+https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2018/01/52117/Zee-Telugu.jpg", group-title="HINDI",ZEE CLASSIC
+http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://www.indiantelevision.com/sites/default/files/images/tv-images/2015/11/19/Untitled-1.jpg", group-title="HINDI",ZEE CAFE
+https://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_tv_marathi_hd.jpg", group-title="HINDI",ZEE MAGIC
+https://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
+
 #EXTINF:-1, tvg-logo="http://2.bp.blogspot.com/-DpXhZwFlarg/VhjRXXJb5cI/AAAAAAAADhA/zKoI34QxQB8/s1600/madinah.png", group-title="ISLAMIC",MAKKAH TV
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13582.m3u8
 
@@ -226,29 +241,66 @@ http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1,group-title="HK",莲花卫视
 http://3xhtut.hls1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 
-#EXTINF:-1,group-title="INDONESIA",ADI TV
+#EXTINF:-1, tvg-logo="", group-title="INDONESIA",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
-#EXTINF:-1,group-title="INDONESIA",ASWAJA TV
+#EXTINF:-1, tvg-logo="", group-title="INDONESIA",ASWAJA TV
 http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
 
-#EXTINF:-1,group-title="INDONESIA",BERITA SATU NEWS
+#EXTINF:-1, tvg-logo="", group-title="INDONESIA",BERITA SATU NEWS
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
-#EXTINF:-1,group-title="INDONESIA",METRO TV
+#EXTINF:-1, tvg-logo="http://s1044.photobucket.com/albums/b447/Amachongz/20100705132940New_MetroTV_Logo_and_Slogan_2010_zpsfjosyo6s.png", group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1,group-title="INDONESIA",NET.HD
+#EXTINF:-1, tvg-logo="http://s1044.photobucket.com/albums/b447/Amachongz/9155ec2a7a045f218d4611616177a1_zpszwicoym4.png", group-title="INDONESIA",NET.HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
-#EXTINF:-1,group-title="INDONESIA",TVRI3
+#EXTINF:-1, tvg-logo="", group-title="INDONESIA",TVRI3
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 
-#EXTINF:-1,group-title="INDONESIA",JAKARTA GLOBE
+#EXTINF:-1, tvg-logo="", group-title="INDONESIA",JAKARTA GLOBEL
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
-#EXTINF:-1,group-title="INDONESIA",BERITA SATU WORLD
+#EXTINF:-1, tvg-logo="", group-title="INDONESIA",BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
-#EXTINF:-1,group-title="INDONESIA",CNN INDONESIA
+#EXTINF:-1, tvg-logo="", group-title="INDONESIA",CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u
+
+#EXTINF:-1,tvg-logo="https://images.mypadtv.com/cihd.jpg", group-title="LEARNING",CRIME INVESTIGATION FHD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$CrimeandInvestigation/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+#EXTINF:-1,tvg-logo="http://english.amazoniafishing.com.br/wp-content/uploads/2015/02/logo-fish-tv.jpg", group-title="LEARNING",FISH CHANNEL
+http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://images.mypadtv.com/food.jpg", group-title="LEARNING",FOODNETWORK
+http://telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+#EXTINF:-1,tvg-logo="https://images.mypadtv.com/history.jpg", group-title="LEARNING",HISTORY1
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TheHistoryChannel/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+#EXTINF:-1,tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2016/02/F1logo_E.jpg", group-title="LEARNING",HD FASHION
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://banner2.kisspng.com/20180327/tew/kisspng-bbc-two-logo-television-freeview-three-5aba63c919f6e3.1804809615221646811064.jpg", group-title="LEARNING",THREE
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+
+#EXTINF:-1,tvg-logo="", group-title="",
+
+#EXTINF:-1,tvg-logo="", group-title="",
+
+#EXTINF:-1,tvg-logo="", group-title="",
+
+#EXTINF:-1,tvg-logo="", group-title="",
+
+#EXTINF:-1,tvg-logo="", group-title="",
+
+#EXTINF:-1,tvg-logo="", group-title="",
+
+#EXTINF:-1,tvg-logo="", group-title="",
+
+
+
+
+
