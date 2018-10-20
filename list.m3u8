@@ -154,6 +154,21 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13532.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tvn_hd.jpg", group-title="KOREAN",tvN
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13549.m3u8
 
+#EXTINF:-1, tvg-logo="http://www.guambusinessmagazine.com/wp-content/uploads/2017/07/CBS_logo.svg.jpg", group-title="KOREAN",CBS TV
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+
+#EXTINF:-1, tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/3/4/2/13420854/13420854_ustream_logo_1373590863,640x360,b:1.jpg", group-title="KOREAN",ARIRANG
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1328000_sleng.m3u8
+
+#EXTINF:-1, tvg-logo="https://mybroadband.co.za/news/wp-content/uploads/2016/01/M-net-Mnet-logo.jpg", group-title="KOREAN",M-NET
+http://d1cdshhn0sj9xt.cloudfront.net/529/QualityLevels(2628000,as=video)/Fragments(video=i,format=hls).m3u8
+
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1618517849/TVChosun_400x400.jpg", group-title="KOREAN",TV CHOSUN
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://s1044.photobucket.com/albums/b447/Amachongz/mnet_zps4rxswpao.png", group-title="KOREAN",M-NET
+https://stream-04.sv6.dailymotion.com/dm/3/x4kzk1v/live-3.m3u8
+
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd5.jpg", group-title="SINGAPORE",CHANNEL 5
 http://103.89.176.45:8278/Channel5/playlist.m3u8
 
