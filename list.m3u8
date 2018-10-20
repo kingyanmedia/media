@@ -130,6 +130,18 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13550.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/hgtv.jpg", group-title="MOVIE",HGTV
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13551.m3u8
 
+#EXTINF:-1,tvg-logo="http://www.vector-logo.net/logo_preview/eps/h/HBO_2.png", group-title="MOVIE",HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1,tvg-logo="https://images.mypadtv.com/zstudio.jpg", group-title="MOVIE",&FLIX HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://akamai.vidz.zeecdn.com/esselnewsletter/images/article1le-05d790fe632520e.jpg", group-title="MOVIE",&PRIVE HD
+https://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://musor.tv/images/paramount_channel.png", group-title="MOVIE",PARAMOUNT CHANNEL
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8/Level(1677721)?start=LIVE&end=END
+
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_supersport1.jpg", group-title="SPORTS",ASSP1 FHD
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13513.m3u8
 
@@ -211,6 +223,9 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13565.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/animax.jpg", group-title="CARTOON",ANIMAX
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13566.m3u8
 
+#EXTINF:-1, tvg-logo="http://s1044.photobucket.com/albums/b447/Amachongz/BizNet4Kids%20logo_zpsvzwt4s5g.png", group-title="CARTOON",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1763834580_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
+
 #EXTINF:-1, tvg-logo="", group-title="HINDI",HINDI STAR
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13570.m3u8
 
@@ -286,21 +301,56 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,tvg-logo="https://banner2.kisspng.com/20180327/tew/kisspng-bbc-two-logo-television-freeview-three-5aba63c919f6e3.1804809615221646811064.jpg", group-title="LEARNING",THREE
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
 
-#EXTINF:-1,tvg-logo="", group-title="",
+#EXTINF:-1,tvg-logo="https://images.mypadtv.com/discovery.jpg", group-title="LEARNING",DISCOVERY
+http://80.80.160.168/live/5/live.m3u8
 
-#EXTINF:-1,tvg-logo="", group-title="",
+#EXTINF:-1,tvg-logo="https://static.filmon.com/assets/channels/21/extra_big_logo.png", group-title="LEARNING",FASHION ONE
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1,tvg-logo="", group-title="",
+#EXTINF:-1,tvg-logo="http://english.amazoniafishing.com.br/wp-content/uploads/2015/02/logo-fish-tv.jpg", group-title="LEARNING",FISH CHANNEL
+http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
 
-#EXTINF:-1,tvg-logo="", group-title="",
+#EXTINF:-1,tvg-logo="http://grihat.com/wp-content/uploads/2017/01/trt.jpg", group-title="LEARNING",TRT
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#EXTINF:-1,tvg-logo="", group-title="",
+#EXTINF:-1,tvg-logo="https://images.mypadtv.com/tlc.jpg", group-title="LEARNING",TLC
+http://80.80.160.168/live/2/live.m3u8
 
-#EXTINF:-1,tvg-logo="", group-title="",
+#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 1
+http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="", group-title="",
+#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 2
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
 
+#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
+#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 4
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+
+#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 5
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 6
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+
+#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 7
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 8
+http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+
+#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 9
+http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+
+#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 10
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+
+#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 11
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+
+#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 12
+http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8
 
 
 
