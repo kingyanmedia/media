@@ -352,5 +352,12 @@ http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 12
 http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8
 
+#EXTINF:-1,tvg-logo="http://teleon.tv/images/logos/hit-tv-es.jpg", group-title="MTV",HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 
+#EXTINF:-1,tvg-logo="https://fs.lnwfile.com/_/fs/_raw/j1/ie/3y.jpg", group-title="MTV",CMC
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:-1,tvg-logo="https://static.wixstatic.com/media/2ecd1a_06b763e0750247d7a45ab72cc235f11b~mv2.gif", group-title="MTV",THE COUNTRY NETWORK
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 
