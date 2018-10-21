@@ -212,7 +212,7 @@ https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u
 https://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/natgeo.jpg", group-title="DOCUMENTARY",NATIONAL GEOGRAPHIC
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13558.m3u8
+http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/natpeople.jpg", group-title="DOCUMENTARY",NAT GEO PEOPLE	
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13560.m3u8
