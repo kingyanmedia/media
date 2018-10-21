@@ -298,6 +298,12 @@ http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="NEWS",Bloomberg Quint
 https://d1j33l0xltpapp.cloudfront.net/bqmain_2.m3u8
 
+#EXTINF:0, group-title="NEWS",CNBC 18 News
+https://cnbctv18-lh.akamaihd.net/i/cnbc_tv18_hls_n_1@174868/index_5_av-p.m3u8
+
+#EXTINF:0, group-title="NEWS",CNN News 18 
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5.m3u8
+
 #EXTINF:-1,tvg-logo="https://images.mypadtv.com/cihd.jpg", group-title="LEARNING",CRIME INVESTIGATION FHD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$CrimeandInvestigation/6.m3u8/Level(1677721)?start=LIVE&end=END
 
