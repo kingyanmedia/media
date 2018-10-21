@@ -181,6 +181,9 @@ http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://s1044.photobucket.com/albums/b447/Amachongz/mnet_zps4rxswpao.png", group-title="KOREAN",M-NET
 https://stream-04.sv6.dailymotion.com/dm/3/x4kzk1v/live-3.m3u8
 
+#EXTINF:-1, tvg-logo="", group-title="KOREAN",ALL THE K-POP
+https://stream-02.nyc.dailymotion.com/01/dm/3/x4kzk1v/live-3.m3u8
+
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd5.jpg", group-title="SINGAPORE",CHANNEL 5
 http://103.89.176.45:8278/Channel5/playlist.m3u8
 
