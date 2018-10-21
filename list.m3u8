@@ -154,14 +154,17 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13507.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_supersport4.jpg", group-title="SPORTS",ASSP4 FHD
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13519.m3u8
 
-#EXTINF:-1, tvg-logo=""https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png", group-title="SPORTS",SONY TEN 1
+#EXTINF:-1, tvg-logo="https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png", group-title="SPORTS",SONY TEN 1
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13530.m3u8
 
-#EXTINF:-1, tvg-logo=""https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png", group-title="SPORTS",SONY TEN 2
+#EXTINF:-1, tvg-logo="https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png", group-title="SPORTS",SONY TEN 2
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13531.m3u8
 
-#EXTINF:-1, tvg-logo=""https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png", group-title="SPORTS",SONY TEN 3
+#EXTINF:-1, tvg-logo="https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png", group-title="SPORTS",SONY TEN 3
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13532.m3u8
+
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/wwe.jpg", group-title="SPORTS",WWE
+http://liveal.quanmin.tv/live/2115620138.flv
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tvn_hd.jpg", group-title="KOREAN",tvN
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13549.m3u8
