@@ -323,9 +323,6 @@ http://80.80.160.168/live/5/live.m3u8
 #EXTINF:-1,tvg-logo="https://static.filmon.com/assets/channels/21/extra_big_logo.png", group-title="LEARNING",FASHION ONE
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1,tvg-logo="http://english.amazoniafishing.com.br/wp-content/uploads/2015/02/logo-fish-tv.jpg", group-title="LEARNING",FISH CHANNEL
-http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
-
 #EXTINF:-1,tvg-logo="http://grihat.com/wp-content/uploads/2017/01/trt.jpg", group-title="LEARNING",TRT
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
