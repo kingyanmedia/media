@@ -560,3 +560,44 @@ http://218.246.85.5:81/hls/live1.m3u8
 
 #EXTINF:-1, tvg-logo="", group-title="CHINA",娄底综合频道
 http://218.77.102.118:1935/live/zonghe_iphone/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="", group-title="TAIWAN",华视咨询
+http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
+
+#EXTINF:-1, tvg-logo="", group-title="TAIWAN",台视新闻
+http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
+
+#EXTINF:-1, tvg-logo="", group-title="TAIWAN",亚洲旅游
+http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
+
+#EXTINF:-1, tvg-logo="", group-title="TAIWAN",中旺电视
+http://live.italkdd.com/cds160/hls/channel008/channel008_2000.m3u8
+
+#EXTINF:-1, tvg-logo="", group-title="TAIWAN",民视新闻
+http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
+
+
+#EXTINF:-1, tvg-logo="", group-title="TAIWAN",非凡新闻
+http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
+
+#EXTINF:-1, tvg-logo="", group-title="TAIWAN",大爱电视
+http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
+
+#EXTINF:-1, tvg-logo="", group-title="TAIWAN",新闻综合
+http://live.italkdd.com/cds160/hls/channel017/channel017_2000.m3u8
+
+#EXTINF:-1, tvg-logo="", group-title="TAIWAN",台湾超视
+http://live.italkdd.com/cds160/hls/channel018/channel018_2000.m3u8
+
+#EXTINF:-1, tvg-logo="", group-title="TAIWAN",东森美洲
+http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8
+
+#EXTINF:-1, tvg-logo="", group-title="TAIWAN",台湾美食
+http://live.italkdd.com/cds160/hls/channel020/channel020_2000.m3u8
+
+#EXTINF:-1, tvg-logo="", group-title="TAIWAN",三立台湾
+http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8
+
+#EXTINF:-1, tvg-logo="", group-title="TAIWAN",600 新闻
+http://live.italkdd.com/cds160/hls/channel023/channel023_2000.m3u8
+
