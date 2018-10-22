@@ -37,8 +37,8 @@ http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live-2.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/8tv.jpg", group-title="MY",8TV
 http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qud17/live-2.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv9.jpg", group-title="MY",xTV9
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13539.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv9.jpg", group-title="MY",TV9
+http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_arena.jpg", group-title="MY",ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
