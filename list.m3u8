@@ -365,6 +365,10 @@ http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 12
 http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8
 
+#EXTINF:-1, tvg-logo="", group-title="CINEMA",HALL 13
+http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+
+
 #EXTINF:-1,tvg-logo="http://teleon.tv/images/logos/hit-tv-es.jpg", group-title="MTV",HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 
