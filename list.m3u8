@@ -103,8 +103,8 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/axn.jpg", group-title="MOVIE",xAXN
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13528.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/foxmovies.jpg", group-title="MOVIE",xFOX MOVIES HD
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13515.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/foxmovies.jpg", group-title="MOVIE",FOX MOVIES HD
+http://58.186.112.234:8889/udp/225.1.2.238:30120
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/foxaction.jpg", group-title="MOVIE",xFOX ACTION MOVIE
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13522.m3u8
@@ -166,6 +166,12 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13531.m3u8
 #EXTINF:-1, tvg-logo="https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png", group-title="SPORTS",xSONY TEN 3
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13532.m3u8
 
+#EXTINF:-1, group-title="SPORTS",Fox Sports HD
+http://58.186.112.234:8889/udp/225.1.2.228:30120
+
+#EXTINF:-1, group-title="SPORTS",Fox Sports 2 HD
+http://58.186.112.234:8889/udp/225.1.1.141:30120
+
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/wwe.jpg", group-title="SPORTS",WWE
 http://liveal.quanmin.tv/live/2115620138.flv
 
@@ -217,8 +223,11 @@ http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/natpeople.jpg", group-title="DOCUMENTARY",xNAT GEO PEOPLE	
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13560.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/animalplanet.jpg", group-title="DOCUMENTARY",xANIMAL PLANET
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13562.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/animalplanet.jpg", group-title="DOCUMENTARY",ANIMAL PLANET
+http://58.186.112.234:8889/udp/225.1.1.231:30120
+
+#EXTINF:-1, group-title="DOCUMENTARY",Discovery Channel
+http://58.186.112.234:8889/udp/225.1.1.238:30120
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/cartoon_network.jpg", group-title="CARTOON",xCARTOON NETWORK
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13563.m3u8
@@ -328,6 +337,9 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 #EXTINF:-1,tvg-logo="https://images.mypadtv.com/tlc.jpg", group-title="LEARNING",TLC
 http://80.80.160.168/live/2/live.m3u8
+
+#EXTINF:-1, group-title="LEARNING",Da Vinci Learning HD
+http://58.186.112.234:8889/udp/225.1.2.253:30120
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 1
 http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
