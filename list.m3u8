@@ -269,6 +269,10 @@ http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1,group-title="HK",莲花卫视
 http://3xhtut.hls1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 
+
+#EXTINF:-1,group-title="HK",澳门卫视"
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+
 #EXTINF:-1, tvg-logo="", group-title="INDONESIA",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
