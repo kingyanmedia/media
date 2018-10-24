@@ -315,6 +315,9 @@ http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5.m3u8
 #EXTINF:-1,tvg-logo="https://images.mypadtv.com/cihd.jpg", group-title="LEARNING",CRIME INVESTIGATION FHD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$CrimeandInvestigation/6.m3u8/Level(1677721)?start=LIVE&end=END
 
+#EXTINF:-1,tvg-logo="", group-title="LEARNING",HGTV
+http://212.8.243.195:8278/HGTV/playlist.m3u8?tid=14384481&tsum=cec5a62478fed4765b6b701586e20a13
+
 #EXTINF:-1,tvg-logo="http://english.amazoniafishing.com.br/wp-content/uploads/2015/02/logo-fish-tv.jpg", group-title="LEARNING",FISH CHANNEL
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
 
