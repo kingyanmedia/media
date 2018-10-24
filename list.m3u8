@@ -10,7 +10,7 @@ http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-2.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_aec.jpg", group-title="MY",AEC
 http://212.8.243.195:8278/Aec/playlist.m3u8?tid=18864225&tsum=a166d24b8cdda4ad3fb733514ffb0610
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ondemand.jpg", group-title="MY",AOD
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ondemand.jpg", group-title="MY",xAOD
 http://212.8.243.195:8278/astroaod_hero/playlist.m3u8?tid=10078645&tsum=2f030da3cce1b46d888396c32540af4e
 
 #EXTINF:-1, tvg-logo="", group-title="MY",TVB
@@ -67,8 +67,8 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13555.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_prima.jpg", group-title="MY",xASTRO PRIMA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13543.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ria_hd.jpg", group-title="MY",xASTRO RIA
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13546.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ria_hd.jpg", group-title="MY",ASTRO RIA
+http://50.7.73.90:8278/Ria/playlist.m3u8?tid=13033076&tsum=9aa268b6eb65af706983848821e9acb2
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tara_hd.jpg", group-title="MY",xASTRO TARA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13510.m3u8
