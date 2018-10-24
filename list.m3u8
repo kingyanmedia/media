@@ -10,8 +10,8 @@ http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-2.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_aec.jpg", group-title="MY",AEC
 http://212.8.243.195:8278/Aec/playlist.m3u8?tid=18864225&tsum=a166d24b8cdda4ad3fb733514ffb0610
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ondemand.jpg", group-title="MY",xAOD
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13553.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ondemand.jpg", group-title="MY",AOD
+http://212.8.243.195:8278/astroaod_hero/playlist.m3u8?tid=10078645&tsum=2f030da3cce1b46d888396c32540af4e
 
 #EXTINF:-1, tvg-logo="", group-title="MY",TVB
 http://pullhls6.inke.cn/live/1539771027820545/playlist.m3u8
