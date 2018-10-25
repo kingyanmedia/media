@@ -175,6 +175,9 @@ http://58.186.112.234:8889/udp/225.1.1.141:30120
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/wwe.jpg", group-title="SPORTS",WWE
 http://liveal.quanmin.tv/live/2115620138.flv
 
+#EXTINF:-1, tvg-logo="", group-title="SPORTS",Golf Taiwan
+http://50.7.73.90:8278/golf_twn/playlist.m3u8?tid=11310661&tsum=9925953c9de2c3a0ccc272819928b877
+
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tvn_hd.jpg", group-title="KOREAN",xtvN
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13549.m3u8
 
