@@ -7,7 +7,7 @@ http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv3_hd.jpg", group-title="MY",TV3
 http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-2.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_aec.jpg", group-title="MY",AEC
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_aec.jpg", group-title="MY",xAEC
 http://212.8.243.195:8278/Aec/playlist.m3u8?tid=18864225&tsum=a166d24b8cdda4ad3fb733514ffb0610
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ondemand.jpg", group-title="MY",xAOD
@@ -19,10 +19,10 @@ http://pullhls6.inke.cn/live/1539771027820545/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/xingkong.jpg", group-title="MY", STAR TV
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_hhd.jpg", group-title="MY",HUA HEE TAI
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_hhd.jpg", group-title="MY",xHUA HEE TAI
 http://190.2.153.35:8278/Huahee/playlist.m3u8?tid=15922130&tsum=f4575432374b2a27712ffb7d0c83a610
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/celestial_hd.jpg", group-title="MY",CELESTIAL MOVIE
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/celestial_hd.jpg", group-title="MY",xCELESTIAL MOVIE
 http://190.2.153.35:8278/Celestial/playlist.m3u8?tid=11054757&tsum=99e2d93faedaad9cfcc3b81feed8c65b
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/ccm.jpg", group-title="MY",xCELESTIAL CLASSIC
@@ -52,8 +52,8 @@ http://212.8.243.195:8278/Naura/playlist.m3u8?tid=14773763&tsum=4f42d90fef96e42a
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ceria.jpg", group-title="MY",xASTRO CERIA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13544.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_citra.jpg", group-title="MY",xASTRO CITRA
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13548.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_citra.jpg", group-title="MY",ASTRO CITRA
+http://190.2.153.35:8278/Citra/playlist.m3u8?tid=15760276&tsum=f6f286f0a4413ac6c9634e3a2d2f1024
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/hello.jpg", group-title="MY",xASTRO HELLO
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13571.m3u8
