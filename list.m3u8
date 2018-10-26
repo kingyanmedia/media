@@ -7,7 +7,7 @@ http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv3_hd.jpg", group-title="MY",TV3
 http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-2.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_aec.jpg", group-title="MY",AEC
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_aec.jpg", group-title="MY",xAEC
 http://212.8.243.195:8278/Aec/playlist.m3u8?tid=10941672&tsum=3af884d6c3044123ec63b34beb306612
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ondemand.jpg", group-title="MY",xAOD
@@ -46,13 +46,13 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_awani.jpg", group-title="MY",ASTRO AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_04.m3u8
 
-#EXTINF:-1, tvg-logo="https://aotg-images.aotg-video.astro.com.my/images/Naura.jpg", group-title="MY",ASTRO NAURA
+#EXTINF:-1, tvg-logo="https://aotg-images.aotg-video.astro.com.my/images/Naura.jpg", group-title="MY",xASTRO NAURA
 http://212.8.243.195:8278/Naura/playlist.m3u8?tid=14773763&tsum=4f42d90fef96e42a71deac9d2a86e676
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ceria.jpg", group-title="MY",xASTRO CERIA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13544.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_citra.jpg", group-title="MY",ASTRO CITRA
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_citra.jpg", group-title="MY",xASTRO CITRA
 http://190.2.153.35:8278/Citra/playlist.m3u8?tid=15760276&tsum=f6f286f0a4413ac6c9634e3a2d2f1024
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/hello.jpg", group-title="MY",xASTRO HELLO
@@ -67,7 +67,7 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13555.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_prima.jpg", group-title="MY",xASTRO PRIMA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13543.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ria_hd.jpg", group-title="MY",ASTRO RIA
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ria_hd.jpg", group-title="MY",xASTRO RIA
 http://50.7.73.90:8278/Ria/playlist.m3u8?tid=13033076&tsum=9aa268b6eb65af706983848821e9acb2
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tara_hd.jpg", group-title="MY",xASTRO TARA
@@ -85,7 +85,7 @@ http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/9nd0pXe8R1HHEDyv931Y8g.jpg", group-title="MY",xDRAMA SANGAT
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13567.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tvalhijrah.jpg", group-title="MY",TV AL-HIJRAH
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tvalhijrah.jpg", group-title="MY",xTV AL-HIJRAH
 http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Alhijrah/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/bernama.jpg", group-title="MY",BERNAMA
