@@ -7,7 +7,7 @@ http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv3_hd.jpg", group-title="MY",TV3
 http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-2.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_aec.jpg", group-title="MY",xAEC
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_aec.jpg", group-title="MY",AEC
 http://212.8.243.195:8278/Aec/playlist.m3u8?tid=13901447&tsum=ec80b1e0d48a5a8a1da451426f553d69
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ondemand.jpg", group-title="MY",xAOD
@@ -19,7 +19,7 @@ http://pullhls6.inke.cn/live/1539771027820545/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/xingkong.jpg", group-title="MY", STAR TV
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_hhd.jpg", group-title="MY",xHUA HEE TAI
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_hhd.jpg", group-title="MY",HUA HEE TAI
 http://190.2.153.35:8278/Huahee/playlist.m3u8?tid=16908488&tsum=031598c62d61708b3ffb94810ebce916
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/celestial_hd.jpg", group-title="MY",xCELESTIAL MOVIE
