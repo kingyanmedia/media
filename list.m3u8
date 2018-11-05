@@ -8,7 +8,7 @@ http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
 http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-2.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_aec.jpg", group-title="MY",xAEC
-http://212.8.243.195:8278/Aec/playlist.m3u8?tid=13901447&tsum=ec80b1e0d48a5a8a1da451426f553d69
+http://212.8.243.195:8278/Aec/playlist.m3u8?tid=m0200000000001434406&ct=17822&tsum=fd634554ee1afc1701546540ef5ff430
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ondemand.jpg", group-title="MY",xAOD
 http://212.8.243.195:8278/astroaod_hero/playlist.m3u8?tid=10078645&tsum=2f030da3cce1b46d888396c32540af4e
@@ -26,7 +26,7 @@ http://190.2.153.35:8278/Huahee/playlist.m3u8?tid=16908488&tsum=031598c62d61708b
 http://190.2.153.35:8278/Celestial/playlist.m3u8?tid=11054757&tsum=99e2d93faedaad9cfcc3b81feed8c65b
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/ccm.jpg", group-title="MY",xCELESTIAL CLASSIC
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13579.m3u8
+P2p://158.69.209.29:2431/5b2e020b000b50a1027526635a98d8f7.ts
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/5q-xV1o9M645p_mip4p3pg.jpg", group-title="MY",CHING M
 http://edge1.everyon.tv/etv1sb/phd783/chunklist_w2146123380.m3u8
