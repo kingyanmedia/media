@@ -238,11 +238,11 @@ http://58.186.112.234:8889/udp/225.1.1.231:30120
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/discovery.jpg", group-title="DOCUMENTARY",Discovery Channel
 http://58.186.112.234:8889/udp/225.1.1.238:30120
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/cartoon_network.jpg", group-title="CARTOON",xCARTOON NETWORK
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13563.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/cartoon_network.jpg", group-title="CARTOON",CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/03.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/nickelodeon.jpg", group-title="CARTOON",xNICKELODEON
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13564.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8
 
 #EXTINF:-1, tvg-logo="http://images.mi.tv/channels/sv_disney-xd-multicountry_m.png", group-title="CARTOON",xDISNEY CHANNEL
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13565.m3u8
