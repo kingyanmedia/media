@@ -206,7 +206,7 @@ https://stream-02.nyc.dailymotion.com/01/dm/3/x4kzk1v/live-3.m3u8
 http://103.89.176.45:8278/Channel5/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd8.jpg", group-title="SINGAPORE",CHANNEL 8
-http://103.89.176.45:8278/Channel8/playlist.m3u8
+http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_1.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/news.asia.jpg", group-title="SINGAPORE",CNN NEW ASIA HD
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
