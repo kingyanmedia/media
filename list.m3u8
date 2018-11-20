@@ -164,10 +164,10 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13507.m3u8
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13519.m3u8
 
 #EXTINF:-1, tvg-logo="https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png", group-title="SPORTS",xSONY TEN 1
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13530.m3u8
+http://163.172.86.57:3135/Ten/1/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png", group-title="SPORTS",xSONY TEN 2
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13531.m3u8
+#EXTINF:-1, tvg-logo="https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png", group-title="SPORTS",SONY TEN 2
+http://163.172.86.57:3135/Ten/2/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png", group-title="SPORTS",xSONY TEN 3
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13532.m3u8
