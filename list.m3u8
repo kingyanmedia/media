@@ -178,7 +178,7 @@ http://58.186.112.234:8889/udp/225.1.2.228:30120
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/foxsport2.jpg', group-title="SPORTS",Fox Sports 2 HD
 http://58.186.112.234:8889/udp/225.1.1.141:30120
 
-#EXTINF:-1, tvg-logo="', group-title="SPORTS",TW ELEVEN sports2
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/L-iHE5-8fqKKOA2FJv66Uw.jpg", group-title="SPORTS",TW ELEVEN sports2
 http://61.58.60.230:9000/live/102.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/wwe.jpg", group-title="SPORTS",WWE
