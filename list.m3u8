@@ -217,7 +217,7 @@ http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1, group-title="KOREAN",EBS-1
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd5.jpg", group-title="SINGAPORE",CHANNEL 5
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd5.jpg", group-title="SINGAPORE",xCHANNEL 5
 http://103.89.176.45:8278/Channel5/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd8.jpg", group-title="SINGAPORE",CHANNEL 8
@@ -239,7 +239,7 @@ https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u
 https://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/natgeo.jpg", group-title="DOCUMENTARY",NATIONAL GEOGRAPHIC
-http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8
+http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/chunklist_w2021209028_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTd1TjhpclRZYmc0a3JxQ2xULWZ1bXc1OTdueXNpUUxUZWRNdzJfM0hYcThYTWtQR253X2xzQ3hxWng3T0hBY2M=.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/natpeople.jpg", group-title="DOCUMENTARY",xNAT GEO PEOPLE	
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13560.m3u8
