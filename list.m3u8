@@ -265,7 +265,8 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13566.m3u8
 #EXTINF:-1, tvg-logo="http://s1044.photobucket.com/albums/b447/Amachongz/BizNet4Kids%20logo_zpsvzwt4s5g.png", group-title="CARTOON",BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1763834580_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
 
-
+#EXTINF:-1, tvg-logo="", group-title="CARTOON",BOOMERANG
+http://80.87.208.158/dna-143-tv-pc/hls/1102v2333.m3u8
 
 #EXTINF:-1,tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg", group-title="HINDI",&PICTURES HD
 https://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
