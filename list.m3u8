@@ -254,7 +254,7 @@ http://58.186.112.234:8889/udp/225.1.1.238:30120
 http://161.0.157.9/PLTV/88888888/224/3221226843/03.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/nickelodeon.jpg", group-title="CARTOON",DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1, tvg-logo="http://images.mi.tv/channels/sv_disney-xd-multicountry_m.png", group-title="CARTOON",DISNEY CHANNEL
 http://161.0.157.6/PLTV/88888888/224/3221226299/03.m3u8
