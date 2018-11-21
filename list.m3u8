@@ -217,8 +217,8 @@ http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1, group-title="KOREAN",EBS-1
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd5.jpg", group-title="SINGAPORE",xCHANNEL 5
-http://103.89.176.45:8278/Channel5/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd5.jpg", group-title="SINGAPORE",CHANNEL 5
+http://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd8.jpg", group-title="SINGAPORE",CHANNEL 8
 http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_1.m3u8
