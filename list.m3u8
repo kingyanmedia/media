@@ -7,7 +7,7 @@ http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv3_hd.jpg", group-title="MY",TV3
 http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-2.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_aec.jpg", group-title="MY",AEC
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_aec.jpg", group-title="MY",xAEC
 http://212.8.243.195:8278/Aec/playlist.m3u8?tid=m0200000000001434406&ct=17822&tsum=fd634554ee1afc1701546540ef5ff430
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ondemand.jpg", group-title="MY",xAOD
@@ -31,11 +31,11 @@ P2p://158.69.209.29:2431/5b2e020b000b50a1027526635a98d8f7.ts
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/5q-xV1o9M645p_mip4p3pg.jpg", group-title="MY",CHING M
 http://edge1.everyon.tv/etv1sb/phd783/chunklist_w2146123380.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/ntv7.jpg", group-title="MY",NTV7
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/ntv7.jpg", group-title="MY",xNTV7
 http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live-2.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/8tv.jpg", group-title="MY",8TV
-http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qud17/live-2.m3u8
+http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv9.jpg", group-title="MY",TV9
 http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
@@ -43,7 +43,7 @@ http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_arena.jpg", group-title="MY",ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_awani.jpg", group-title="MY",ASTRO AWANI
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_awani.jpg", group-title="MY",xASTRO AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_04.m3u8
 
 #EXTINF:-1, tvg-logo="https://aotg-images.aotg-video.astro.com.my/images/Naura.jpg", group-title="MY",xASTRO NAURA
