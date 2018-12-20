@@ -31,8 +31,8 @@ P2p://158.69.209.29:2431/5b2e020b000b50a1027526635a98d8f7.ts
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/5q-xV1o9M645p_mip4p3pg.jpg", group-title="MY",CHING M
 http://edge1.everyon.tv/etv1sb/phd783/chunklist_w2146123380.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/ntv7.jpg", group-title="MY",xNTV7
-http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live-2.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/ntv7.jpg", group-title="MY",NTV7
+http://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTXVQJ2hvUHOXbnvE6GyTI8)/dm/3/x6qp6ou/live-3.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/8tv.jpg", group-title="MY",8TV
 http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
