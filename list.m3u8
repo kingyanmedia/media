@@ -1,5 +1,5 @@
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv1.jpg", group-title="MY",TV1
-http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+http://stream76.mypadtv.com/mypadtv/tv1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDE5IDY6MjM6MzUgQU0maGFzaF92YWx1ZT1WanFyTjQ0em1YMFVWcTJ0bGJyYXJnPT0mdmFsaWRtaW51dGVzPTImaWQ9NDIwM3w1NXxsaXZlfG15aXB0djRrfDE1NTUxMzY2MTV8MjExLjI0LjEwNS44Ng=
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv2.jpg", group-title="MY",TV2
 http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
