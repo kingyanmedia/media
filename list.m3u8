@@ -35,7 +35,7 @@ http://edge1.everyon.tv/etv1sb/phd783/chunklist_w2146123380.m3u8
 http://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTXVQJ2hvUHOXbnvE6GyTI8)/dm/3/x6qp6ou/live-3.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/8tv.jpg", group-title="MY",8TV
-http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
+http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv9.jpg", group-title="MY",TV9
 http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
@@ -44,7 +44,7 @@ http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_awani.jpg", group-title="MY",ASTRO AWANI
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://aotg-images.aotg-video.astro.com.my/images/Naura.jpg", group-title="MY",xASTRO NAURA
 http://212.8.243.195:8278/Naura/playlist.m3u8?tid=14773763&tsum=4f42d90fef96e42a71deac9d2a86e676
@@ -67,8 +67,8 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13555.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_prima.jpg", group-title="MY",xASTRO PRIMA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13543.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ria_hd.jpg", group-title="MY",xASTRO RIA
-http://50.7.73.90:8278/Ria/playlist.m3u8?tid=13033076&tsum=9aa268b6eb65af706983848821e9acb2
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ria_hd.jpg", group-title="MY",ASTRO RIA
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tara_hd.jpg", group-title="MY",xASTRO TARA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13510.m3u8
@@ -193,14 +193,14 @@ http://50.7.73.90:8278/golf_twn/playlist.m3u8?tid=11310661&tsum=9925953c9de2c3a0
 #EXTINF:-1, tvg-logo="", group-title="SPORTS",ESPN
 http://80.80.160.168/live/6/2500000/live.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tvn_hd.jpg", group-title="KOREAN",xtvN
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13549.m3u8
+#EXTINF:-1, tvg-logo="", group-title="KOREAN",Korean WFCHD
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, tvg-logo="http://www.guambusinessmagazine.com/wp-content/uploads/2017/07/CBS_logo.svg.jpg", group-title="KOREAN",CBS TV
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
 
 #EXTINF:-1, tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/3/4/2/13420854/13420854_ustream_logo_1373590863,640x360,b:1.jpg", group-title="KOREAN",ARIRANG
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1328000_sleng.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://mybroadband.co.za/news/wp-content/uploads/2016/01/M-net-Mnet-logo.jpg", group-title="KOREAN",M-NET
 http://d1cdshhn0sj9xt.cloudfront.net/529/QualityLevels(2628000,as=video)/Fragments(video=i,format=hls).m3u8
@@ -223,6 +223,9 @@ http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1, group-title="KOREAN",EBS-1
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 
+#EXTINF:-1, group-title="KOREAN",EBS-Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd5.jpg", group-title="SINGAPORE",CHANNEL 5
 http://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8
 
@@ -242,16 +245,16 @@ https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 http://103.89.176.45:8278/ChannelU/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/okto.jpg", group-title="SINGAPORE",OKTO HD
-https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/suria.jpg", group-title="SINGAPORE",SURIA FHD
-https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/vasantham.jpg", group-title="SINGAPORE",VASANTHAM FH
 https://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/natgeo.jpg", group-title="DOCUMENTARY",NATIONAL GEOGRAPHIC
-http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/chunklist_w2021209028_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTd1TjhpclRZYmc0a3JxQ2xULWZ1bXc1OTdueXNpUUxUZWRNdzJfM0hYcThYTWtQR253X2xzQ3hxWng3T0hBY2M=.m3u8
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/natpeople.jpg", group-title="DOCUMENTARY",NAT GEO PEOPLE	
 http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/l_15696456_63199320_4324.ts?nimblesessionid=18764422
@@ -264,6 +267,9 @@ http://58.186.112.234:8889/udp/225.1.1.238:30120
 
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Miao-mi-logo-color.png", group-title="CARTOON",Miao Mi Tv
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+
+#EXTINF:-1, tvg-logo="", group-title="CARTOON",BabyFirst亲子台
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/cartoon_network.jpg", group-title="CARTOON",CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/03.m3u8
