@@ -262,6 +262,9 @@ http://80.80.160.168/live/1/500000/live.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/discovery.jpg", group-title="DOCUMENTARY",Discovery Channel
 http://58.186.112.234:8889/udp/225.1.1.238:30120
 
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Miao-mi-logo-color.png", group-title="CARTOON",Miao Mi Tv
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/cartoon_network.jpg", group-title="CARTOON",CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/03.m3u8
 
