@@ -1,14 +1,17 @@
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv1.jpg", group-title="MY",TV1
+﻿#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv1.jpg", group-title="MY",TV1
 http://lovely-cheap-xenoposeidon.gigalixirapp.com/308
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv2.jpg", group-title="MY",TV2
 http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv3_hd.jpg", group-title="MY",TV3
-http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-2.m3u8
+https://raw.githubusercontent.com/androidrepublica/playlist/master/TV3.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_aec.jpg", group-title="MY",AEC
 http://5.79.87.234:8278/Aec/playlist.m3u8?tid=10953998&tsum=3b28edabb2e374c8bc57435a624cf9fc
+
+#EXTINF:-1, tvg-logo="", group-title="MY",ANTV
+https://raw.githubusercontent.com/zulnausa/test/master/Antv.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ondemand.jpg", group-title="MY",xAOD
 http://212.8.243.195:8278/astroaod_hero/playlist.m3u8?tid=10078645&tsum=2f030da3cce1b46d888396c32540af4e
@@ -25,20 +28,26 @@ http://190.2.153.35:8278/Huahee/playlist.m3u8?tid=16908488&tsum=031598c62d61708b
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/celestial_hd.jpg", group-title="MY",xCELESTIAL MOVIE
 http://190.2.153.35:8278/Celestial/playlist.m3u8?tid=11054757&tsum=99e2d93faedaad9cfcc3b81feed8c65b
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/ccm.jpg", group-title="MY",xCELESTIAL CLASSIC
-P2p://158.69.209.29:2431/5b2e020b000b50a1027526635a98d8f7.ts
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/ccm.jpg", group-title="MY",CELESTIAL CLASSIC
+https://raw.githubusercontent.com/zulnausa/test/master/CCM.m3u8
+
+#EXTINF:-1, tvg-logo="", group-title="MY",Kix
+https://raw.githubusercontent.com/zulnausa/test/master/Kix.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/5q-xV1o9M645p_mip4p3pg.jpg", group-title="MY",CHING M
 http://edge1.everyon.tv/etv1sb/phd783/chunklist_w2146123380.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/ntv7.jpg", group-title="MY",NTV7
-http://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTXVQJ2hvUHOXbnvE6GyTI8)/dm/3/x6qp6ou/live-3.m3u8
+https://raw.githubusercontent.com/androidrepublica/playlist/master/NTV7.m3u8
+
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/8tv.jpg", group-title="MY",8TV
+https://raw.githubusercontent.com/androidrepublica/playlist/master/8TV.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/8tv.jpg", group-title="MY",8TV
 http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv9.jpg", group-title="MY",TV9
-http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
+https://raw.githubusercontent.com/androidrepublica/playlist/master/TV9.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_arena.jpg", group-title="MY",ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
@@ -82,11 +91,9 @@ http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13545.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/okey.jpg", group-title="MY",TV OKEY
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/9nd0pXe8R1HHEDyv931Y8g.jpg", group-title="MY",xDRAMA SANGAT
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13567.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/9nd0pXe8R1HHEDyv931Y8g.jpg", group-title="MY",DRAMA SANGAT
+https://raw.githubusercontent.com/androidrepublica/playlist/master/DramaSangat.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tvalhijrah.jpg", group-title="MY",xTV AL-HIJRAH
-http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Alhijrah/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/bernama.jpg", group-title="MY",BERNAMA
 http://livecdn.long.tv:8123/live/D2277643DD09404D9A16098841FAD3D1/playlist.m3u8?sid=2e10c441a6d447789c914561b5a05336
@@ -100,8 +107,8 @@ http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 #EXTINF:-1, tvg-logo="http://www.tvikim.my/images/logo-header.png", group-title="MY",TV IKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/axn.jpg", group-title="MOVIE",xAXN
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13528.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/axn.jpg", group-title="MOVIE",AXN
+https://raw.githubusercontent.com/zulnausa/test/master/AXN.m3u8
 
 #EXTINF:-1, tvg-logo="", group-title="MOVIE",HBO CHINESE
 http://218.202.220.2:5000/nn_live.ts?id=HBO
@@ -280,8 +287,8 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1, tvg-logo="http://images.mi.tv/channels/sv_disney-xd-multicountry_m.png", group-title="CARTOON",DISNEY CHANNEL
 http://161.0.157.6/PLTV/88888888/224/3221226299/03.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/animax.jpg", group-title="CARTOON",xANIMAX
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13566.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/animax.jpg", group-title="CARTOON",ANIMAX
+https://raw.githubusercontent.com/zulnausa/test/master/Animax.m3u8
 
 #EXTINF:-1, tvg-logo="http://s1044.photobucket.com/albums/b447/Amachongz/BizNet4Kids%20logo_zpsvzwt4s5g.png", group-title="CARTOON",BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1763834580_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
