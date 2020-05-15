@@ -407,35 +407,50 @@ http://80.80.160.168/live/7/2500000/live.m3u8
 
 
 
-#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 1
+#EXTINF:-1,tvg-logo="https://www.thebeijinger.com/files/u49264/from_b_pane_1_0.jpg", group-title="CINEMA",Stephen Chow 周星馳
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 
+#EXTINF:-1,tvg-logo="http://www.gstatic.com/tv/thumb/persons/77217/77217_v9_ba.jpg", group-title="CINEMA",Andy Lau 劉德華
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+
+#EXTINF:-1,tvg-logo="http://static5.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/2014/03/jcn_thumb.jpg", group-title="CINEMA",Jackie Chan 成龙
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+
+#EXTINF:-1,tvg-logo="https://cdn-images-1.medium.com/max/1600/1*XGw9zUEZGYPNmeKGmyeX1g.jpeg", group-title="CINEMA",蠟筆小新
+https://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,tvg-logo="https://orig00.deviantart.net/58ae/f/2014/238/6/2/my_naruto_fanfiction_timeline_by_ladysesshyfanfiction-d7wt32b.png", group-title="CINEMA",Naruto 火影忍者
+http://alhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
+
+#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 1
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 2
-
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 3
-
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 4
-
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 5
-
+http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 6
-
+http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 7
-
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 8
-
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 9
-
+http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 10
-
+http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 11
 
