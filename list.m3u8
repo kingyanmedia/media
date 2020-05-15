@@ -8,28 +8,34 @@ http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
 https://raw.githubusercontent.com/androidrepublica/playlist/master/TV3.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_aec.jpg", group-title="MY",AEC
-http://5.79.87.234:8278/Aec/playlist.m3u8?tid=10953998&tsum=3b28edabb2e374c8bc57435a624cf9fc
+http://185.180.221.194:8278/Aec/playlist.m3u8?tid=MD9D7286847372868473&ct=18393&tsum=528b4df2b09ac49dde7efa01f1521fc0
 
-#EXTINF:-1, tvg-logo="", group-title="MY",ANTV
-https://raw.githubusercontent.com/zulnausa/test/master/Antv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",iQIYi
+http://185.180.221.194:8278/Qiyi/playlist.m3u8?tid=MB6B9982727599827275&ct=18393&tsum=dac11949045b23a5dddf7f908d866fcc
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ondemand.jpg", group-title="MY",xAOD
-http://212.8.243.195:8278/astroaod_hero/playlist.m3u8?tid=10078645&tsum=2f030da3cce1b46d888396c32540af4e
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ondemand.jpg", group-title="MY",AOD
+hthttp://198.16.106.58:8278/852e2b6267/playlist.m3u8?tid=ME9E3829778138297781&ct=18393&tsum=267919d91a464025ca3ec69186e0b97f
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tvb.jpg", group-title="MY",TVB
-http://pullhls6.inke.cn/live/1539771027820545/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",Quan Jia
+http://185.180.221.194:8278/709a7e15e5/playlist.m3u8?tid=MB2B5535727355357273&ct=18393&tsum=befb9caa2c30f07d1ae184dcc3f09a01
+
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tvb.jpg", group-title="MY",Xuang Xing
+http://185.180.221.194:8278/367b06ceb0/playlist.m3u8?tid=MA6A9167860491678604&ct=18393&tsum=a91c02b45da772304fb1d530514e52a7
+
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_hhd.jpg", group-title="MY",HUA HEE TAI
+http://185.180.221.194:8278/6192529292/playlist.m3u8?tid=ME1E6676056466760564&ct=18393&tsum=c7c93e30271e8d42b8f02c7a8ca24319
+
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/celestial_hd.jpg", group-title="MY",Xiao Tai Yang
+http://185.180.221.194:8278/3c83e3e991/playlist.m3u8?tid=MBBB6932799069327990&ct=18393&tsum=7879ab5e19dae1fa346615d553b22e00
+
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/ccm.jpg", group-title="MY",CELESTIAL CLASSIC
+https://raw.githubusercontent.com/zulnausa/test/master/CCM.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/xingkong.jpg", group-title="MY", STAR TV
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_hhd.jpg", group-title="MY",xHUA HEE TAI
-http://190.2.153.35:8278/Huahee/playlist.m3u8?tid=16908488&tsum=031598c62d61708b3ffb94810ebce916
-
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/celestial_hd.jpg", group-title="MY",xCELESTIAL MOVIE
-http://190.2.153.35:8278/Celestial/playlist.m3u8?tid=11054757&tsum=99e2d93faedaad9cfcc3b81feed8c65b
-
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/ccm.jpg", group-title="MY",CELESTIAL CLASSIC
-https://raw.githubusercontent.com/zulnausa/test/master/CCM.m3u8
+#EXTINF:-1, tvg-logo="", group-title="MY",ANTV
+https://raw.githubusercontent.com/zulnausa/test/master/Antv.m3u8
 
 #EXTINF:-1, tvg-logo="", group-title="MY",Kix
 https://raw.githubusercontent.com/zulnausa/test/master/Kix.m3u8
@@ -202,6 +208,9 @@ http://80.80.160.168/live/6/2500000/live.m3u8
 
 #EXTINF:-1, tvg-logo="", group-title="KOREAN",Korean WFCHD
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-logo="", group-title="KOREAN",SetOne
+http://198.16.106.58:8278/SetOne/playlist.m3u8?tid=MF6F8455869384558693&ct=18392&tsum=521c928ec46be6881fd78f2346d864b1
 
 #EXTINF:-1, tvg-logo="http://www.guambusinessmagazine.com/wp-content/uploads/2017/07/CBS_logo.svg.jpg", group-title="KOREAN",CBS TV
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
@@ -452,6 +461,9 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0
 
 #EXTINF:-1,tvg-logo="https://static.wixstatic.com/media/2ecd1a_06b763e0750247d7a45ab72cc235f11b~mv2.gif", group-title="MTV",THE COUNTRY NETWORK
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
+#EXTINF:-1,tvg-logo="", group-title="MTV",MTV HD Taiwan
+http://198.16.106.58:8278/mtvtaiwan_twn/playlist.m3u8?tid=MB9B3720025037200250&ct=18392&tsum=c4d31b45723772740b47149e9213e35d
 
 #EXTINF:-1, tvg-logo="", group-title="JAPAN",NHK WORLD SD
 http://iptv.didanurwanda.com/channel/live/nhk-world.m3u8
