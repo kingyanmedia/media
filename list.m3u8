@@ -1,8 +1,8 @@
 ﻿#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv1.jpg", group-title="MY",TV1
-http://lovely-cheap-xenoposeidon.gigalixirapp.com/308
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv2.jpg", group-title="MY",TV2
-http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv3_hd.jpg", group-title="MY",TV3
 https://raw.githubusercontent.com/androidrepublica/playlist/master/TV3.m3u8
@@ -61,45 +61,44 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_awani.jpg", group-title="MY",ASTRO AWANI
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://aotg-images.aotg-video.astro.com.my/images/Naura.jpg", group-title="MY",xASTRO NAURA
+#EXTINF:-1, tvg-logo="https://aotg-images.aotg-video.astro.com.my/images/Naura.jpg", group-title="MY",ASTRO NAURA
 http://212.8.243.195:8278/Naura/playlist.m3u8?tid=14773763&tsum=4f42d90fef96e42a71deac9d2a86e676
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ceria.jpg", group-title="MY",xASTRO CERIA
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ceria.jpg", group-title="MY",ASTRO CERIA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13544.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_citra.jpg", group-title="MY",xASTRO CITRA
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_citra.jpg", group-title="MY",ASTRO CITRA
 http://190.2.153.35:8278/Citra/playlist.m3u8?tid=15760276&tsum=f6f286f0a4413ac6c9634e3a2d2f1024
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/hello.jpg", group-title="MY",xASTRO HELLO
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/hello.jpg", group-title="MY",ASTRO HELLO
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13571.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_maya_hd.jpg", group-title="MY",xASTRO MAYA
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_maya_hd.jpg", group-title="MY",ASTRO MAYA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13542.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_oasis.jpg", group-title="MY",xASTRO OASIS
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_oasis.jpg", group-title="MY",ASTRO OASIS
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13555.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_prima.jpg", group-title="MY",xASTRO PRIMA
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_prima.jpg", group-title="MY",ASTRO PRIMA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13543.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ria_hd.jpg", group-title="MY",ASTRO RIA
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tara_hd.jpg", group-title="MY",xASTRO TARA
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tara_hd.jpg", group-title="MY",ASTRO TARA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13510.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_bollyone.jpg", group-title="MY",xASTRO BOLLYONE
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_bollyone.jpg", group-title="MY",ASTRO BOLLYONE
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13524.m3u8
  
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_warna_hd.jpg", group-title="MY",xASTRO WARNA
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_warna_hd.jpg", group-title="MY",ASTRO WARNA
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13545.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/okey.jpg", group-title="MY",TV OKEY
-http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/9nd0pXe8R1HHEDyv931Y8g.jpg", group-title="MY",DRAMA SANGAT
 https://raw.githubusercontent.com/androidrepublica/playlist/master/DramaSangat.m3u8
-
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/bernama.jpg", group-title="MY",BERNAMA
 http://livecdn.long.tv:8123/live/D2277643DD09404D9A16098841FAD3D1/playlist.m3u8?sid=2e10c441a6d447789c914561b5a05336
@@ -112,6 +111,9 @@ http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
 #EXTINF:-1, tvg-logo="http://www.tvikim.my/images/logo-header.png", group-title="MY",TV IKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+
+
+
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/axn.jpg", group-title="MOVIE",AXN
 https://raw.githubusercontent.com/zulnausa/test/master/AXN.m3u8
@@ -164,6 +166,10 @@ https://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,tvg-logo="https://musor.tv/images/paramount_channel.png", group-title="MOVIE",PARAMOUNT CHANNEL
 http://telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8/Level(1677721)?start=LIVE&end=END
 
+
+
+
+
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_supersport1.jpg", group-title="SPORTS",xASSP1 FHD
 http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13513.m3u8
 
@@ -206,6 +212,11 @@ http://50.7.73.90:8278/golf_twn/playlist.m3u8?tid=11310661&tsum=9925953c9de2c3a0
 #EXTINF:-1, tvg-logo="", group-title="SPORTS",ESPN
 http://80.80.160.168/live/6/2500000/live.m3u8
 
+
+
+
+
+
 #EXTINF:-1, tvg-logo="", group-title="KOREAN",Korean WFCHD
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
 
@@ -242,32 +253,36 @@ http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1, group-title="KOREAN",EBS-Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd5.jpg", group-title="SINGAPORE",CHANNEL 5
-http://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd5.jpg", group-title="SINGAPORE",CHANNEL 5 HD
-https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index_5.m3u8
+
+
+
+
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd5.jpg", group-title="SINGAPORE",CHANNEL 5
+http://198.16.106.58:8278/Channel5/playlist.m3u8?tid=MA7A4522692345226923&ct=18393&tsum=2d9240b5cca29fe3ab6cabbb1e210f7e
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd8.jpg", group-title="SINGAPORE",CHANNEL 8
-http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_1.m3u8
+http://198.16.106.58:8278/Channel8/playlist.m3u8?tid=MBAB2952044029520440&ct=18393&tsum=727f923b2b022ab6f67cdab5b84c2705
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/hd8.jpg", group-title="SINGAPORE",CHANNEL 8 HD
-https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_5.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/news.asia.jpg", group-title="SINGAPORE",CNN NEW ASIA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/news.asia.jpg", group-title="SINGAPORE",CNN NEW ASIA HD
-https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/channelu.jpg", group-title="SINGAPORE",CNN U
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/channelu.jpg", group-title="SINGAPORE",CNN U HD
-http://103.89.176.45:8278/ChannelU/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/okto.jpg", group-title="SINGAPORE",OKTO HD
-https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/okto.jpg", group-title="SINGAPORE",OKTO
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/suria.jpg", group-title="SINGAPORE",SURIA FHD
+
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/suria.jpg", group-title="SINGAPORE",SURIA
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/vasantham.jpg", group-title="SINGAPORE",VASANTHAM FH
-https://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
+#EXTINF:-1, tvg-logo="", group-title="SINGAPORE",OHK
+http://198.16.106.58:8278/ohk_twn/playlist.m3u8?tid=MC5C6829488968294889&ct=18393&tsum=c4d6884d5a7ec0af18a554c2d69c9ff7
+
+
+
+
+
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/natgeo.jpg", group-title="DOCUMENTARY",NATIONAL GEOGRAPHIC
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
