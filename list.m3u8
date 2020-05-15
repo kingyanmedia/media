@@ -407,50 +407,7 @@ http://80.80.160.168/live/7/2500000/live.m3u8
 
 
 
-#EXTINF:-1,tvg-logo="", group-title="CINEMA",Stephen Chow 周星馳
-http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 
-#EXTINF:-1,tvg-logo="", group-title="CINEMA",Andy Lau 劉德華
-http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
-
-#EXTINF:-1,tvg-logo="", group-title="CINEMA",Jackie Chan 成龙
-http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
-
-#EXTINF:-1,tvg-logo="", group-title="CINEMA",蠟筆小新
-https://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,tvg-logo="", group-title="CINEMA",Naruto 火影忍者
-http://alhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
-
-#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 1
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 2
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-
-#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 4
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 5
-http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
-
-#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 6
-http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
-
-#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 7
-http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
-
-#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 8
-http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-
-#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 9
-http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8
-
-#EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 10
-http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
 
 
 
@@ -671,94 +628,227 @@ http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",壹新闻
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://chinaiptv.ueuo.com/typd.png" group-title="Taiwan 台湾",天映频道
+http://198.16.106.58:8278/Celestial1511/playlist.m3u8?tid=MA3A1587109915871099&ct=18392&tsum=3039500a3cdcdb25e75684401aa93fab
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",TVBS新闻台
-http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
+#EXTINF:-1 tvg-id="828" tvg-name="天映经典" tvg-logo="http://chinaiptv.ueuo.com/tyjd.png" group-title="Taiwan 台湾",天映经典
+http://198.16.106.58:8278/Celestial2/playlist.m3u8?tid=MDCD3547234435472344&ct=18392&tsum=df191ce8dd50aed7d02bc018c8953b5d
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",球电视台
-http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="Taiwan 台湾",AMC
+http://198.16.106.58:8278/sundance_twn/playlist.m3u8?tid=ME8E6516348865163488&ct=18392&tsum=4b378b3dce57d990375dc63fa830c9a4
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",靖天卡通
-http://61.58.60.230:9000/live/207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Taiwan 台湾",CI
+http://198.16.106.58:8278/ci_twn/playlist.m3u8?tid=MDED2146129621461296&ct=18392&tsum=5d3635ae16593892965af78a8a1c402c
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",靖洋卡通
-http://61.58.60.230:9000/live/206.m3u8
+#EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="Taiwan 台湾",CINEMAX
+http://198.16.106.58:8278/cinemax_twn/playlist.m3u8?tid=MEAE1417577214175772&ct=18392&tsum=5d6639abf9c0be1bdb8ded47c91e3af7
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",靖天欢乐台
-http://61.58.60.230:9000/live/201.m3u8
+#EXTINF:-1 tvg-id="871" tvg-name="cinemaworld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="Taiwan 台湾",cinemaworld
+http://198.16.106.58:8278/cinemaworld_twn/playlist.m3u8?tid=MDBD8739754187397541&ct=18392&tsum=beca461ae91017c1bb0a4d6fed0d4507
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",靖洋戏剧台
-http://61.58.60.230:9000/live/203.m3u8
+#EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="Taiwan 台湾",CatchPlay电影
+http://198.16.106.58:8278/catchplay_twn/playlist.m3u8?tid=ME7E4675812646758126&ct=18392&tsum=271a75bd9cc5c9a7ef81aca6ad1df354
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",靖天资讯台
-http://61.58.60.230:9000/live/202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Taiwan 台湾",日舞电影
+http://198.16.106.58:8278/sundance_twn/playlist.m3u8?tid=ME2E3028737630287376&ct=18392&tsum=c9d8507658c83110f8fdca428bae220b
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",靖天育乐台
-http://61.58.60.230:9000/live/204.m3u8
+#EXTINF:-1 tvg-id="517" tvg-name="星卫HD电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="Taiwan 台湾",星卫HD电影
+http://198.16.106.58:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",靖天国际台
-http://61.58.60.230:9000/live/205.m3u8
+#EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="Taiwan 台湾",LSTime电影台
+http://198.16.106.58:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",幸福空間居家
-http://61.58.60.230:9000/live/125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Taiwan 台湾",美亚高清电影台
+http://198.16.106.58:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",大爱一
-http://61.58.60.230:9000/live/10.m3u8
+#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="Taiwan 台湾",好莱坞电影
+http://198.16.106.58:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",大爱二
-http://61.58.60.230:9000/live/191.m3u8
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="Taiwan 台湾",卫视电影
+http://198.16.106.58:8278/weishimovie_twn/playlist.m3u8?tid=MF0F3330764533307645&ct=18392&tsum=faa4a720f233e70dfd73cc4a061a837c
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",耀才财经
-http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Taiwan 台湾",卫视西片
+http://198.16.106.58:8278/weishiwestern_twn/playlist.m3u8?tid=MFDF8567633585676335&ct=18392&tsum=5f38b79f3c0c38050372e6bde9440a2a
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 tvg-id="6149" tvg-name="WarnerTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" group-title="Taiwan 台湾",WarnerTV
+http://198.16.106.58:8278/warnatv_twn/playlist.m3u8?tid=ME3E5008972350089723&ct=18392&tsum=796fff61fcbddb1b6030488404f2c6ef
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",台灣壹新聞
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8
+#EXTINF:-1 tvg-id="711" tvg-name="FXHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FXHD.png" group-title="Taiwan 台湾",FXHD
+http://198.16.106.58:8278/fxhd_twn/playlist.m3u8?tid=MD1D5513509655135096&ct=18392&tsum=c74e4aed52d91a9dc0ac80b0ac28d90c
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",华视咨询
-http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="Taiwan 台湾",HBOHD
+http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",台视新闻
-http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="Taiwan 台湾",HBOHits
+http://198.16.106.58:8278/hbohits_twn/playlist.m3u8?tid=MEAE4573157945731579&ct=18392&tsum=f86959d8d1d44b2eb9d30f62bdf2835f
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",亚洲旅游
-http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="Taiwan 台湾",HBOSignature
+http://198.16.106.58:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",中旺电视
-http://live.italkdd.com/cds160/hls/channel008/channel008_2000.m3u8
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="Taiwan 台湾",Fox HD
+http://198.16.106.58:8278/foxhd_twn/playlist.m3u8?tid=MA6A2819297028192970&ct=18393&tsum=3414f4d77779c119832629eadfa43ac2
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",民视新闻
-http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Taiwan 台湾",FOXFAMILY
+http://198.16.106.58:8278/foxfamily_twn/playlist.m3u8?tid=MC5C1679190116791901&ct=18393&tsum=49a16beffa8c05a4bd1a62e3e4a782b4
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",非凡新闻
-http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
+#EXTINF:-1 tvg-id="354" tvg-name="FOXCRIME" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXCRIME.png" group-title="Taiwan 台湾",FOXCRIME
+http://198.16.106.58:8278/foxcrime_twn/playlist.m3u8?tid=MECE5087243850872438&ct=18393&tsum=d7689a64511aba65163b0fb03b3fab28
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",大爱电视
-http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Taiwan 台湾",FOXACTION
+http://198.16.106.58:8278/foxaction_twn/playlist.m3u8?tid=MD8D8357746283577462&ct=18393&tsum=b65f8f8f01c6ac97412db1da8d647163
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",新闻综合
-http://live.italkdd.com/cds160/hls/channel017/channel017_2000.m3u8
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="Taiwan 台湾",国家地理频道
+http://198.16.106.58:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",台湾超视
-http://live.italkdd.com/cds160/hls/channel018/channel018_2000.m3u8
+#EXTINF:-1 tvg-id="283" tvg-name="国家地理悠人频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeopeople.png" group-title="Taiwan 台湾",国家地理悠人频道
+http://198.16.106.58:8278/natgeopeople_twn/playlist.m3u8?tid=MF4F1621382516213825&ct=18393&tsum=0179c7c8b0ada87c4a4caf401d0edcbf
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",东森美洲
-http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8
+#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="Taiwan 台湾",国家地理野生频道
+http://198.16.106.58:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",台湾美食
-http://live.italkdd.com/cds160/hls/channel020/channel020_2000.m3u8
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="Taiwan 台湾",动物星球
+http://198.16.106.58:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",三立台湾
-http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="Taiwan 台湾",History1
+http://198.16.106.58:8278/history1hd_twn/playlist.m3u8?tid=MDCD5551797355517973&ct=18393&tsum=8e7f075d6ca29448829cf4e1d64b6871
 
-#EXTINF:-1, tvg-logo="", group-title="TAIWAN",600 新闻
-http://live.italkdd.com/cds160/hls/channel023/channel023_2000.m3u8
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="Taiwan 台湾",History2
+http://198.16.106.58:8278/history2hd_twn/playlist.m3u8?tid=MC4C3621665636216656&ct=18393&tsum=535cbef76d6b87a59153c75fdb3905d1
+
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="Taiwan 台湾",Discovery
+http://198.16.106.58:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
+
+#EXTINF:-1 tvg-id="6165" tvg-name="Discovery科学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" group-title="Taiwan 台湾",Discovery科学
+http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
+
+#EXTINF:-1 tvg-id="6166" tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="Taiwan 台湾",DiscoveryAsia
+http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+
+#EXTINF:-1 tvg-id="6170" tvg-name="DMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DMAX.png" group-title="Taiwan 台湾",DMAX
+http://198.16.106.58:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Taiwan 台湾",Discoverych
+http://198.16.106.58:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+
+#EXTINF:-1 tvg-id="6164" tvg-name="EVE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EVE.png" group-title="Taiwan 台湾",EVE
+http://198.16.106.58:8278/discoveryeve_twn/playlist.m3u8?tid=MACA6121184961211849&ct=18393&tsum=35d151544bac19b74b26c3c026fe0461
+
+#EXTINF:-1 tvg-id="6038" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" group-title="Taiwan 台湾",TLC旅游生活频道
+http://198.16.106.58:8278/tlcasia_twn/playlist.m3u8?tid=MF9F2559661625596616&ct=18393&tsum=17341deeeedc8c53b6835d997e9982f5
+
+#EXTINF:-1 tvg-id="6168" tvg-name="TravelChannel" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png" group-title="Taiwan 台湾",Travel Channel
+http://198.16.106.58:8278/travelchannel_twn/playlist.m3u8?tid=MABA1585531715855317&ct=18393&tsum=42f69b954571e72acf695b35c3b75c4a
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Taiwan 台湾",Travel
+http://198.16.106.58:8278/travelch_glo/playlist.m3u8?tid=MDFD2572162325721623&ct=18393&tsum=09cf10b2898edd252222e967c7d38903
+
+#EXTINF:-1 tvg-id="6182" tvg-name="BlueAntExtreme" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BLUEAntExtreme.png" group-title="Taiwan 台湾",BlueAntExtreme
+http://198.16.106.58:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="Taiwan 台湾",tvN
+http://198.16.106.58:8278/tvn_twn/playlist.m3u8?tid=MF9F4578724945787249&ct=18393&tsum=48d958b643447f549e1eb03f86628e87
+
+#EXTINF:-1 tvg-id="989" tvg-name="Outdoor" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/outdoor.png" group-title="Taiwan 台湾",Outdoor
+http://198.16.106.58:8278/outdoorsports_twn/playlist.m3u8?tid=MACA4561096445610964&ct=18393&tsum=828e4f2dda3ccfcadb828ed350b387e9
+
+#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="Taiwan 台湾",HGTV居家乐活
+http://185.180.221.194:8278/a9e3de822d/playlist.m3u8?tid=MBDB7218533272185332&ct=18393&tsum=5a2aa82f28cee91ac63fd9fd02725799
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Taiwan 台湾",WWE
+http://198.16.106.58:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Taiwan 台湾",NBA
+http://198.16.106.58:8278/nbausa_glo/playlist.m3u8?tid=MF3F9400995694009956&ct=18393&tsum=eb7a5adc08a107872b49aa3ab284cb5e#http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1747
+
+#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="Taiwan 台湾",BBCEarth
+http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D8469127084691270&ct=18393&tsum=60258039c8662460318eb58859cba64a
+
+#EXTINF:-1 tvg-id="6147" tvg-name="BBCLifestyle" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="Taiwan 台湾",BBCLifestyle
+http://198.16.106.58:8278/bbcearthlifestyle/playlist.m3u8?tid=MB8B4838527848385278&ct=18393&tsum=c7a5e4e2494328288f7a974cfe2262d2
+
+#EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="Taiwan 台湾",FashionTV
+http://198.16.106.58:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
+
+#EXTINF:-1 tvg-id="7194" tvg-name="rollor" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/roller.png" group-title="Taiwan 台湾",滚动力
+http://198.16.106.58:8278/e_twn/playlist.m3u8?tid=MD2D1939715219397152&ct=18393&tsum=742cb0b6f40cfb2ea718b414c689e712
+
+#EXTINF:-1 tvg-id="6160" tvg-name="E-ENTERTAINMENT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/e_ent.png" group-title="Taiwan 台湾",E! Entertainment
+http://198.16.106.58:8278/e_twn/playlist.m3u8?tid=MB3B4410240944102409&ct=18393&tsum=9e2fc1e8a9e14bf19b0c47c4467436db
+
+#EXTINF:-1 tvg-id="7193" tvg-name="LUXETV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/luxetv.png" group-title="Taiwan 台湾",Luxe TV
+http://198.16.106.58:8278/luxetv_twn/playlist.m3u8?tid=MB1B6407504064075040&ct=18393&tsum=08de12f3a25588a1a8dbb6900a4aac57
+
+#EXTINF:-1 tvg-id="6162" tvg-name="DIVA" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DIVA.png" group-title="Taiwan 台湾",Diva
+http://198.16.106.58:8278/diva_twn/playlist.m3u8?tid=MD9D5094141550941415&ct=18393&tsum=d18b3ba3bdfb2ae870842c9a4f03e4fb
+
+#EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="Taiwan 台湾",亚洲旅游
+http://198.16.106.58:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+
+#EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="Taiwan 台湾",亚洲美食
+http://198.16.106.58:8278/asiafood_twn/playlist.m3u8?tid=MC9C8878315988783159&ct=18393&tsum=8b63cd1cb454f7e9ca44625a2b3fb1a8
 
 
+#EXTINF:-1 tvg-id="7216" tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="Taiwan 台湾",美食星球
+http://198.16.106.58:8278/chinesefoodnetwork/playlist.m3u8?tid=MA6A8606774886067748&ct=18393&tsum=e48f55d02f64d530360fedaf675e95c5
+#EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg" group-title="Taiwan 台湾",中华美食
+http://198.16.106.58:8278/foodnetwork_twn/playlist.m3u8?tid=MF8F2680166226801662&ct=18393&tsum=9b21b95d049a0592771130daf6a96ed7
+
+#EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="Taiwan 台湾",lifetime
+http://198.16.106.58:8278/lifetime_glo/playlist.m3u8?tid=MBDB4788166447881664&ct=18393&tsum=908d7197571094d34eb84a5696ade0ad
+
+#EXTINF:-1 tvg-id="468" tvg-name="MEZZOLIVEHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mezzo.png" group-title="Taiwan 台湾",mezzo
+http://198.16.106.58:8278/mezzolive_twn/playlist.m3u8?tid=MF1F9413393694133936&ct=18393&tsum=dd6108553cf0870a6614fe2fc573e4a5
+
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="Taiwan 台湾",aljazeera
+http://198.16.106.58:8278/aljazeera_twn/playlist.m3u8?tid=MB1B2196295121962951&ct=18393&tsum=c550b2229f6910c8c682d35cdeb7c92f
+
+#EXTINF:-1 tvg-id="7223" tvg-name="曼迪日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mandi_japan.png" group-title="Taiwan 台湾",曼迪日本台
+http://198.16.106.58:8278/mandijapan_twn/playlist.m3u8?tid=MABA7453818174538181&ct=18393&tsum=bd398ec08b970200da4838a93443ac82
+
+#EXTINF:-1 tvg-id="7209" tvg-name="MY-KIDS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mykids.png" group-title="Taiwan 台湾",MY-KIDS
+http://198.16.106.58:8278/mykids_twn/playlist.m3u8?tid=MDBD2059939220599392&ct=18393&tsum=eaa7ca9327a51252b6440943589e7bb9
+
+#EXTINF:-1 tvg-id="6187" tvg-name="CBeebies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png" group-title="Taiwan 台湾",CBeebies
+http://198.16.106.58:8278/diva_twn/playlist.m3u8?tid=MF6F3136022331360223&ct=18393&tsum=321ef4412cbf2177de8307087ae5f5a7
+
+#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="Taiwan 台湾",NickJr
+http://198.16.106.58:8278/nickjr_twn/playlist.m3u8?tid=ME0E7109715971097159&ct=18393&tsum=911eae90947dca7b7eda44871ff091d2
+
+#EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="Taiwan 台湾",babyfirst
+http://198.16.106.58:8278/babyfirst_twn/playlist.m3u8?tid=MF2F3992811039928110&ct=18393&tsum=886b7b9a52d194c47c7fd76e60c07e2a
+
+#EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="Taiwan 台湾",BaBy-TV
+http://198.16.106.58:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
+
+#EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="Taiwan 台湾",Boomerang
+http://198.16.106.58:8278/boomerang_twn/playlist.m3u8?tid=MCDC7371777173717771&ct=18393&tsum=b1817d45ee51fd4571fa4ff80c854211
+
+#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="Taiwan 台湾",Animax
+http://198.16.106.58:8278/cartoonnetwork_twn/playlist.m3u8?tid=MA8A9426918394269183&ct=18393&tsum=ce0531e9194a00e6a449c0f08e1ff1c2
+
+#EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="Taiwan 台湾",CN卡通频道
+http://198.16.106.58:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+
+#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="Taiwan 台湾",迪士尼卡通
+http://198.16.106.58:8278/disneytwn_twn/playlist.m3u8?tid=MFAF4817862548178625&ct=18393&tsum=9c798dd79b0911a1b839f4a51e491dd8
+
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="Taiwan 台湾",CHC动作电影
+http://198.16.106.58:8278/chcaction/playlist.m3u8?tid=MDFD9003917790039177&ct=18393&tsum=01a5afaa9d5381fd7cf50f050376b93f
+
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="Taiwan 台湾",CHC家庭影院
+http://198.16.106.58:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
+
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="Taiwan 台湾",CHC高清电影
+http://198.16.106.58:8278/chchdmovie/playlist.m3u8?tid=MACA2345529423455294&ct=18393&tsum=56d5479ba1576de3607bff4ac6c2cfe8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Taiwan 台湾",博斯高球I
+http://198.16.106.58:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Taiwan 台湾",博斯高球II
+http://198.16.106.58:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Taiwan 台湾",博斯运动I
+http://198.16.106.58:8278/bosisport_twn/playlist.m3u8?tid=MBFB8033025680330256&ct=18393&tsum=824e29a39188f25214de8bb0367217b2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Taiwan 台湾",博斯运动II
+http://198.16.106.58:8278/bosisport2_twn/playlist.m3u8?tid=MA6A9994195899941958&ct=18393&tsum=6d1df531c3970ed49efe13473af46a2b
 
 
 
