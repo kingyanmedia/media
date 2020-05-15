@@ -16,20 +16,26 @@ http://185.180.221.194:8278/Qiyi/playlist.m3u8?tid=MB6B9982727599827275&ct=18393
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ondemand.jpg", group-title="MY",AOD
 hthttp://198.16.106.58:8278/852e2b6267/playlist.m3u8?tid=ME9E3829778138297781&ct=18393&tsum=267919d91a464025ca3ec69186e0b97f
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",Quan Jia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",Quan Jia 全佳
 http://185.180.221.194:8278/709a7e15e5/playlist.m3u8?tid=MB2B5535727355357273&ct=18393&tsum=befb9caa2c30f07d1ae184dcc3f09a01
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tvb.jpg", group-title="MY",Xuang Xing
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tvb.jpg", group-title="MY",Xuang Xing 双星
 http://185.180.221.194:8278/367b06ceb0/playlist.m3u8?tid=MA6A9167860491678604&ct=18393&tsum=a91c02b45da772304fb1d530514e52a7
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_hhd.jpg", group-title="MY",HUA HEE TAI
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_hhd.jpg", group-title="MY",HUA HEE TAI 欢喜
 http://185.180.221.194:8278/6192529292/playlist.m3u8?tid=ME1E6676056466760564&ct=18393&tsum=c7c93e30271e8d42b8f02c7a8ca24319
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/celestial_hd.jpg", group-title="MY",Xiao Tai Yang
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/celestial_hd.jpg", group-title="MY",Xiao Tai Yang 小太阳
 http://185.180.221.194:8278/3c83e3e991/playlist.m3u8?tid=MBBB6932799069327990&ct=18393&tsum=7879ab5e19dae1fa346615d553b22e00
 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/ccm.jpg", group-title="MY",CELESTIAL CLASSIC
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/ccm.jpg", group-title="MY",CELESTIAL MOVIES 天映频道
 https://raw.githubusercontent.com/zulnausa/test/master/CCM.m3u8
+
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/ccm.jpg", group-title="MY",CELESTIAL MOVIES 天映频道 2
+http://198.16.106.58:8278/Celestial1511/playlist.m3u8?tid=MA3A1587109915871099&ct=18392&tsum=3039500a3cdcdb25e75684401aa93fab
+
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/ccm.jpg", group-title="MY",CELESTIAL CLASSIC 天映经典
+http://198.16.106.58:8278/Celestial2/playlist.m3u8?tid=MDCD3547234435472344&ct=18392&tsum=df191ce8dd50aed7d02bc018c8953b5d
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/xingkong.jpg", group-title="MY", STAR TV
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
@@ -296,6 +302,11 @@ http://80.80.160.168/live/1/500000/live.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/discovery.jpg", group-title="DOCUMENTARY",Discovery Channel
 http://58.186.112.234:8889/udp/225.1.1.238:30120
 
+
+
+
+
+
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Miao-mi-logo-color.png", group-title="CARTOON",Miao Mi Tv
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
@@ -320,47 +331,10 @@ http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1
 #EXTINF:-1, tvg-logo="", group-title="CARTOON",BOOMERANG
 http://80.87.208.158/dna-143-tv-pc/hls/1102v2333.m3u8
 
-#EXTINF:-1,tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg", group-title="HINDI",&PICTURES HD
-https://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,tvg-logo="https://i.imgur.com/RcQaQOn.png", group-title="HINDI",ZEE CINEMA
-https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2018/01/52117/Zee-Telugu.jpg", group-title="HINDI",ZEE CLASSIC
-http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,tvg-logo="http://www.indiantelevision.com/sites/default/files/images/tv-images/2015/11/19/Untitled-1.jpg", group-title="HINDI",ZEE CAFE
-https://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_tv_marathi_hd.jpg", group-title="HINDI",ZEE MAGIC
-https://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
-
-#EXTINF:-1, tvg-logo="", group-title="INDONESIA",ADI TV
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="", group-title="INDONESIA",ASWAJA TV
-http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="", group-title="INDONESIA",BERITA SATU NEWS
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="http://s1044.photobucket.com/albums/b447/Amachongz/20100705132940New_MetroTV_Logo_and_Slogan_2010_zpsfjosyo6s.png", group-title="INDONESIA",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="http://s1044.photobucket.com/albums/b447/Amachongz/9155ec2a7a045f218d4611616177a1_zpszwicoym4.png", group-title="INDONESIA",NET.HD
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="", group-title="INDONESIA",TVRI3
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
-
-#EXTINF:-1, tvg-logo="", group-title="INDONESIA",JAKARTA GLOBEL
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="", group-title="INDONESIA",BERITA SATU WORLD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="", group-title="INDONESIA",CNN INDONESIA
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u
 
 #EXTINF:0, group-title="NEWS",BBC World News
 http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
@@ -373,6 +347,10 @@ https://cnbctv18-lh.akamaihd.net/i/cnbc_tv18_hls_n_1@174868/index_5_av-p.m3u8
 
 #EXTINF:0, group-title="NEWS",CNN News 18 
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5.m3u8
+
+
+
+
 
 #EXTINF:-1,tvg-logo="", group-title="LEARNING",FASHION TV
 http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-0.m3u8
@@ -425,47 +403,56 @@ http://80.80.160.168/live/5/500000/live.m3u8
 #EXTINF:-1, group-title="LEARNING",SHOWTIME
 http://80.80.160.168/live/7/2500000/live.m3u8
 
+
+
+
+
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 1
-http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
+
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 2
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 4
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 5
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 6
-http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 7
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 8
-http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 9
-http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 10
-http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 11
-http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+
 
 #EXTINF:-1,tvg-logo="", group-title="CINEMA",HALL 12
-http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8
+
 
 #EXTINF:-1, tvg-logo="", group-title="CINEMA",HALL 13
-http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+
 
 #EXTINF:-1, tvg-logo="", group-title="CINEMA",HALL 14
-http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1,tvg-logo="http://teleon.tv/images/logos/hit-tv-es.jpg", group-title="MTV",HIT TV
@@ -480,11 +467,21 @@ https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1,tvg-logo="", group-title="MTV",MTV HD Taiwan
 http://198.16.106.58:8278/mtvtaiwan_twn/playlist.m3u8?tid=MB9B3720025037200250&ct=18392&tsum=c4d31b45723772740b47149e9213e35d
 
+
+
+
+
+
 #EXTINF:-1, tvg-logo="", group-title="JAPAN",NHK WORLD SD
 http://iptv.didanurwanda.com/channel/live/nhk-world.m3u8
 
 #EXTINF:-1, tvg-logo="", group-title="JAPAN",NHK WORLD HD
 http://iptv.didanurwanda.com/channel/live/nhk-world-hd.m3u8
+
+
+
+
+
 
 #EXTINF:-1, tvg-logo="", group-title="CHINA",CCTV1HD
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221226624/1.m3u8
@@ -666,6 +663,11 @@ http://218.77.102.118:1935/live/zonghe_iphone/playlist.m3u8
 #EXTINF:-1, tvg-logo="", group-title="CHINA",环球电影
 http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 
+
+
+
+
+
 #EXTINF:-1, tvg-logo="", group-title="TAIWAN",壹新闻
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
 
@@ -753,6 +755,11 @@ http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8
 #EXTINF:-1, tvg-logo="", group-title="TAIWAN",600 新闻
 http://live.italkdd.com/cds160/hls/channel023/channel023_2000.m3u8
 
+
+
+
+
+
 #EXTINF:-1,group-title="HK",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 
@@ -794,106 +801,6 @@ http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playli
 
 #EXTINF:-1,group-title="HK",环球电视台
 http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV爱情喜剧
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225877/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV搏击
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225895/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV超级电视剧FHD
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225806/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV超级电影FHD
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225804/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV超级体育FHD
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225803/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV超级综艺FHD
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225801/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV电竞
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225894/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV动画王国
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225878/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV动作电影
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225879/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV古装剧场
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225880/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV海外剧场
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225881/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV家庭剧场
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225882/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV健康有约
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225883/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV金牌综艺
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225884/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV惊悚悬疑
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225885/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV精品大剧
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225889/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV精品电影
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225891/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV精品记录
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225888/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV精品体育
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225886/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV军旅剧场
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225887/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV军事评论
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225890/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV明星大片
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225893/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",NEWTV潮妈辣婆
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226107/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",BESTV超级体育FHD
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226642/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",BESTV超级体育FHD
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226646/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",BESTV直播FHD
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226560/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",BESTV直播FHD
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226564/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",BESTV直播FHD
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226565/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",BESTV直播FHD
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226568/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",BESTV直播FHD
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226569/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",BESTV直播FHD
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226573/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",BESTV直播FHD
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226599/1.m3u8
-
-#EXTINF:-1,group-title="NEWTV",BESTV直播FHD
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226603/1.m3u8
-
 
 
 
